@@ -1,1 +1,1 @@
-# qualtrics connector
+# Qualtrics connector
