@@ -1,0 +1,51 @@
+{
+  "version": "2.0.0",
+  "fields": [
+    {
+        "field": "API_KEY_HEADER_NAME",
+        "displayName": "Qualtrics Access Token Header Name",
+        "type": "String",
+        "minLength": 4,
+        "maxLength": 60,
+        "required": true,
+        "description": "Qualtrics Access Token Header Name",
+        "default": "X-API-TOKEN",
+        "example": "X-API-TOKEN",
+        "helpSection": "X-API-TOKEN"
+      },
+    {
+      "field": "API_KEY",
+      "displayName": "Qualtrics API Key",
+      "type": "String",
+      "minLength": 4,
+      "maxLength": 60,
+      "required": true,
+      "description": "Qualtrics API Key Token",
+      "example": "NPfWE2p1H7yBzIXnRB",
+      "helpSection": ""
+    },
+    {
+      "field": "AUTH_TYPE",
+      "displayName": "Qualtrics Auth Type",
+      "type": "String",
+      "minLength": 4,
+      "maxLength": 60,
+      "required": true,
+      "description": "Qualtrics API Auth Type",
+      "default": "API_KEY",
+      "example": "API_KEY",
+      "helpSection": ""
+    },
+    {
+      "field": "SERVER_URL",
+      "displayName": "Qualtrics Server URL",
+      "type": "String",
+      "minLength": 4,
+      "maxLength": 60,
+      "required": true,
+      "description": "Qualtrics API Server URL",
+      "example": "https://api.qualtrics.com",
+      "helpSection": "The base API url consists of the qualtrics hostname for your organization followed by /API The scheme must be https."
+    }
+  ]
+}
