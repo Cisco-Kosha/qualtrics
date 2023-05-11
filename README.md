@@ -36,7 +36,7 @@ Using the data records API, you can add, update, get, or delete data from import
 
 ## Authentication
 
-To authenticate when provisioning the Kosha Jira connector, you need your:
+To authenticate when provisioning the Kosha Qualtrics connector, you need your:
 
 * Qualtrics API Key
 * Qualtrics Server URL
