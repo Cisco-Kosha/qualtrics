@@ -1,6 +1,6 @@
 # Kosha Qualtrics Connector
 
-Qualtrics is an online survey platform that enables you to build and distribute surveys, collect responses, and analyze response data. 
+Qualtrics is an online survey platform you can use to build and distribute surveys, collect responses, and analyze response data. 
 
 The Kosha Qualtrics connector enables you to perform REST API operations from the Qualtrics API in your Kosha workflow or custom application. Using the Kosha Qualtrics connector, you can directly access the Qualtrics platform to:
 
