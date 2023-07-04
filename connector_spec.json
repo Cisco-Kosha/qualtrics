@@ -45,7 +45,7 @@
       "required": true,
       "description": "Qualtrics API Server URL",
       "example": "https://api.qualtrics.com",
-      "helpSection": "The base API url consists of the qualtrics hostname for your organization followed by /API The scheme must be https."
+      "helpSection": "The base API url consists of the qualtrics data center id followed by /API/v3. The scheme must be https."
     }
   ]
 }
